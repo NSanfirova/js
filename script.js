@@ -50,3 +50,6 @@ myStr +="This is the second sentence.";
 // Only change code below this line
 const myName = "Nadezhda ";
 const myStr = "My name is " +myName + "and I am well!";
+const someAdjective = "very cool!";
+let myStr = "Learning to code is ";
+myStr+= someAdjective;
