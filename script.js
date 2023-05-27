@@ -108,7 +108,11 @@ console.log(wordBlanks)
 // Only change code below this line
 const myArray = ["jelly", 2];
 
-
+// Only change code below this line
+const myArray = [["dog", 1], ["cats",3]];
+const myArray = [50, 60, 70];
+var myData = myArray [0];
+console.log(myData);
 
 
 
