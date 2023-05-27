@@ -62,6 +62,12 @@ const lastName = "Lovelace";
 lastNameLength = lastName.length;*/
 
 
+
+
+
+
+
+
 /*BUTTLESHIP*/
  let location1 = 3;
  let location2 = 4;
