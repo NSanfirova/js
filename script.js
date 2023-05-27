@@ -105,6 +105,8 @@ const wordBlanks = myAdjective + " " +myNoun+" "+myVerb+" "+myAdverb; // Change 
 // Only change code above this line
 console.log(wordBlanks)
 
+// Only change code below this line
+const myArray = ["jelly", 2];
 
 
 
